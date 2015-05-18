@@ -1,24 +1,22 @@
 # README
+##Urban Scavenger##
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Description ###
 
-Things you may want to cover:
+Application used to discover location of public fruiting trees for harvesting.
 
-* Ruby version
 
-* System dependencies
+### Author ###
 
-* Configuration
+Chris Sefkin 
 
-* Database creation
+### Date ###
 
-* Database initialization
+May-June 2015
 
-* How to run the test suite
+### Unfinished Things/Known Issues ###
+1.  Initial files only
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+**License and Copyright Info**
+MIT License
+Copyright 2015 Chris Sefkin
